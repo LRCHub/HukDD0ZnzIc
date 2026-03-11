@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アカシア・シンドローム",
+  "base_artist": "紫咲シオン",
+  "createdAt": "2026-03-11T15:11:41.552903Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アカシア・シンドローム",
+      "artist": "紫咲シオン",
+      "has_synced": false,
+      "path": "select/pl_01_アカシア・シンドローム_紫咲シオン.txt"
+    }
+  ]
+}
